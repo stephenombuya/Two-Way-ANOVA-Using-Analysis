@@ -1,1 +1,13 @@
-
+factor1,factor2,dependent_variable
+A,X,23
+A,X,25
+A,Y,30
+A,Y,28
+B,X,35
+B,X,33
+B,Y,40
+B,Y,42
+C,X,20
+C,X,22
+C,Y,27
+C,Y,29
